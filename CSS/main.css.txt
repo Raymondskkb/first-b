@@ -1,0 +1,7 @@
+.steps{
+color:biege;
+
+}
+h1{
+ color:blue;
+}
